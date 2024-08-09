@@ -1,0 +1,124 @@
+body {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    color: #222;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    border-bottom: 2px solid #222;
+}
+
+.title {
+    font-size: 64px;
+    font-weight: bold;
+    margin: 0;
+}
+
+nav {
+    text-align: center;
+    padding: 10px;
+    border-bottom: 2px solid #222;
+}
+
+.nav-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-list li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.nav-list a {
+    text-decoration: none;
+    color: #222;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+main {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+.section {
+    border-bottom: 2px solid #222;
+    padding: 20px 0;
+}
+
+.section-title {
+    font-size: 36px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.content {
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 10px 0;
+}
+
+.image-text {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    border-top: 2px solid #222;
+    font-size: 14px;
+    color: #666;
+    margin-top: 40px;
+}
+.contact-section {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    border-bottom: 2px solid #222;
+}
+
+.contact-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+.contact-item {
+    margin: 10px 0;
+}
+
+.contact-item strong {
+    font-weight: bold;
+    color: #222;
+}
+
+
+header {
+    text-align: center;
+    padding: 20px;
+    border-bottom: 2px solid #222;
+    width: 100%;
+}
+
+.title {
+    font-size: 64px;
+    font-weight: bold;
+    margin: 0;
+}
+
+
+
+
+
